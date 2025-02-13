@@ -1,0 +1,3 @@
+packages:
+# 设置packages目录中的所有包都作为工作空间
+  - 'packages/*'
