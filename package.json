@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "pnpm -r run build",
+    "ci:publish": "pnpm publish -r",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
