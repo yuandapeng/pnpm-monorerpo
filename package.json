@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "pnpm -r run build",
+    "ci:version": "changeset version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
